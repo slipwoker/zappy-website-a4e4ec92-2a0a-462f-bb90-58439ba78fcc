@@ -1,0 +1,55 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מכון שמיעה בצפון עם למעלה מ-10 שנות ניסיון. בדיקות שמיעה מקצועיות, התאמת מכשירי שמיעה ומעקב אישי לילדים ומבוגרים. שלושה סניפים בצפון הארץ — קבעו תור עוד היום.
+
+### אודות
+https://example.com/about
+Soundent / Soundmir נוסדה על ידי קלינאית תקשורת מוסמכת ואיש רפואה, מתוך אמונה ששמיעה טובה היא זכות ולא מותרות. הכירו את הצוות שהפך מקצועיות לחוויה אנושית.
+
+### שירותים
+https://example.com/services
+בדיקת שמיעה לילדים ומבוגרים, התאמת מכשיר שמיעה דרך קופת חולים ומעקב לטווח ארוך — כל השירותים האודיולוגיים שאתם צריכים, תחת קורת גג אחת. גלו את מגוון הפתרונות שלנו.
+
+### מכשירי שמיעה ומותגים
+https://example.com/hearing-aids-brands
+Oticon, Starkey, ReSound, Philips ו-Bernafon — אנו מציעים את מכשירי השמיעה המתקדמים ביותר בהתאמה אישית מלאה. מצאו את המכשיר שישנה את איכות חייכם כבר עכשיו.
+
+### סניפים
+https://example.com/branches
+שלושה סניפים בדבורייה, זרזיר ובית שאן — מכון שמיעה בצפון שנמצא ממש בקרבתכם. שעות פתיחה נוחות וגישה קלה לכל תושבי האזור. מצאו את הסניף הקרוב ובואו אלינו.
+
+### צור קשר
+https://example.com/contact
+רוצים לקבוע בדיקת שמיעה לילדים או לברר על התאמת מכשיר שמיעה דרך קופת חולים? צרו קשר עם הצוות המקצועי שלנו עוד היום — נשמח לענות על כל שאלה ולעזור לכם לשמוע טוב יותר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
