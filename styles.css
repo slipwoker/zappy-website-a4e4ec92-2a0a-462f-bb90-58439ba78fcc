@@ -144,7 +144,7 @@
   --accent: #F0A500;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4a4a4a;
+  --text-dark: #4A4A4A;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -187,7 +187,7 @@
   --accent-color: #F0A500;
   --background-color: #FFFFFF;
   --surface-color: #F0F4FA;
-  --text-color: #4a4a4a;
+  --text-color: #4A4A4A;
   --text-secondary-color: #656565;
 }
 
@@ -759,7 +759,7 @@ pre {
   --accent: #F0A500;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4a4a4a;
+  --text-dark: #4A4A4A;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -1024,7 +1024,7 @@ pre {
   --accent: #F0A500;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4a4a4a;
+  --text-dark: #4A4A4A;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -2134,7 +2134,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   --accent: #F0A500;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4a4a4a;
+  --text-dark: #4A4A4A;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -10580,14 +10580,7 @@ body.accessibility-widget-visible ._access-menu {
 }
 
 
-/* === BUTTON TEXT OVERRIDES START === */
-.btn-accent,
-.btn--accent,
-[class*="btn-accent"],
-[class*="btn--accent"] { color: #333333 !important; }
-.navbar .nav-cta-btn,
-.nav-cta-btn { color: #FFFFFF !important; }
-/* === BUTTON TEXT OVERRIDES END === */
+
 
 /* === NAVBAR STYLE OVERRIDES START === */
 .navbar { background-color: #FAFBF8 !important; }
@@ -10711,7 +10704,7 @@ nav.navbar .sub-menu li a:hover { color: #138A8A !important; background-color: r
   .mobile-search-panel input { color: #4a4a4a !important; background: #FFFFFF !important; }
   .mobile-search-panel .close-search { color: #4a4a4a !important; background: #FFFFFF !important; }
   .mobile-search-panel .close-search svg { stroke: #4a4a4a !important; color: #4a4a4a !important; }
-  .mobile-search-panel .close-search:hover { color: #4a4a4a !important; background: #f2f2f2 !important; }
+  .mobile-search-panel .close-search:hover { color: #4a4a4a !important; background: #FFFFFF !important; }
   .mobile-search-panel .close-search:hover svg { stroke: #4a4a4a !important; color: #4a4a4a !important; }
   .navbar .zappy-products-dropdown .sub-menu,
   .navbar .zappy-products-dropdown > .sub-menu {
@@ -10756,6 +10749,23 @@ nav.navbar .sub-menu li a:hover { color: #138A8A !important; background-color: r
   }
 }
 /* /Zappy custom logo size */
+
+
+
+
+
+
+
+
+
+/* === BUTTON TEXT OVERRIDES START === */
+.btn-accent,
+.btn--accent,
+[class*="btn-accent"],
+[class*="btn--accent"] { color: #333333 !important; }
+.navbar .nav-cta-btn,
+.nav-cta-btn { color: #FFFFFF !important; }
+/* === BUTTON TEXT OVERRIDES END === */
 
 
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
