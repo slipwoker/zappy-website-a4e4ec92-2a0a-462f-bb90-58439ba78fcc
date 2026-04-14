@@ -139,12 +139,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 
 :root {
---primary: #E0FFFF;
-  --secondary: #FFFBC0;
-  --accent: #FFEB00;
+--primary: #1B3A6B;
+  --secondary: #0E8A7D;
+  --accent: #F4A020;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4A4A4A;
+  --text-dark: #4a4a4a;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -182,12 +182,12 @@
   --gradient-light-section: linear-gradient(180deg, #FFFFFF 0%, #F4F8F7 100%);
   --gradient-overlay-dark: linear-gradient(90deg, rgba(255,255,255,0.88) 0%, rgba(255,255,255,0.72) 34%, rgba(255,255,255,0.08) 62%, rgba(255,255,255,0) 100%);
   --gradient-overlay-light: linear-gradient(180deg, rgba(255,255,255,0.96) 0%, rgba(244,248,247,0.92) 100%);
-  --primary-color: #E0FFFF;
-  --secondary-color: #FFFBC0;
-  --accent-color: #FFEB00;
+  --primary-color: #1B3A6B;
+  --secondary-color: #0E8A7D;
+  --accent-color: #F4A020;
   --background-color: #FFFFFF;
-  --surface-color: #F0F4FA;
-  --text-color: #4A4A4A;
+  --surface-color: #F0F4F8;
+  --text-color: #4a4a4a;
   --text-secondary-color: #656565;
 }
 
@@ -754,12 +754,12 @@ pre {
   --nav-bg: #FAFBF8;
   --nav-text: #4a4a4a;
   --nav-text-hover: #138A8A;
-  --primary: #E0FFFF;
-  --secondary: #FFFBC0;
-  --accent: #FFEB00;
+  --primary: #1B3A6B;
+  --secondary: #0E8A7D;
+  --accent: #F4A020;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4A4A4A;
+  --text-dark: #4a4a4a;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -891,7 +891,7 @@ pre {
 
 .nav-cta-btn:hover,
 .nav-cta-btn:focus {
-  background-color: #E0FFFF;
+  background-color: #1B3A6B;
   transform: translateY(-1px);
   box-shadow: 0 10px 24px rgba(19, 138, 138, 0.22);
   outline: none;
@@ -1019,12 +1019,12 @@ pre {
   --nav-bg: #FAFBF8;
   --nav-text: #4a4a4a;
   --nav-text-hover: #138A8A;
-  --primary: #E0FFFF;
-  --secondary: #FFFBC0;
-  --accent: #FFEB00;
+  --primary: #1B3A6B;
+  --secondary: #0E8A7D;
+  --accent: #F4A020;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4A4A4A;
+  --text-dark: #4a4a4a;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -1156,7 +1156,7 @@ pre {
 
 .nav-cta-btn:hover,
 .nav-cta-btn:focus {
-  background-color: #E0FFFF;
+  background-color: #1B3A6B;
   transform: translateY(-1px);
   box-shadow: 0 10px 24px rgba(19, 138, 138, 0.22);
   outline: none;
@@ -1350,7 +1350,7 @@ pre {
 .navbar a:focus-visible,
 .navbar button:focus-visible,
 .nav-menu a:focus-visible {
-  outline: 2px solid var(--primary-color, var(--primary, #E0FFFF));
+  outline: 2px solid var(--primary-color, var(--primary, #1B3A6B));
   outline-offset: 2px;
 }
 
@@ -2129,12 +2129,12 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 /* Footer Styles */
 .site-footer {
-  --primary: #E0FFFF;
-  --secondary: #FFFBC0;
-  --accent: #FFEB00;
+  --primary: #1B3A6B;
+  --secondary: #0E8A7D;
+  --accent: #F4A020;
   --bg-light: #FFFFFF;
   --bg-dark: #1F2933;
-  --text-dark: #4A4A4A;
+  --text-dark: #4a4a4a;
   --text-light: #F7FBFA;
   --text-muted: #656565;
   --border-light: #828a88;
@@ -2376,7 +2376,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .footer-cta-btn:hover {
-  background-color: #E0FFFF;
+  background-color: #1B3A6B;
   transform: translateY(-2px);
   box-shadow: 0 6px 18px rgba(19, 138, 138, 0.4);
 }
@@ -2652,7 +2652,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .index-hero-section .index-hero-btn-primary:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19, 138, 138, 0.32);
   transform: translateY(-2px);
   color: #ffffff;
@@ -3831,11 +3831,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   align-items: center;
   justify-content: center;
   gap: 8px;
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 28px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-size: 15px;
   font-weight: 700;
@@ -3849,8 +3849,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .index-locations-section .btn-primary.index-cta-main-btn:hover {
-  background: #E0FFFF;
-  border-color: #E0FFFF;
+  background: #1B3A6B;
+  border-color: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.22);
   transform: translateY(-1px);
 }
@@ -3865,7 +3865,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   color: #1a7a3e;
   padding: 14px 28px;
   border-radius: 8px;
-  border: 1px solid #FFEB00;
+  border: 1px solid #F4A020;
   font-family: 'Rubik', sans-serif;
   font-size: 15px;
   font-weight: 700;
@@ -5088,9 +5088,9 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .about-philosophy-section .btn-primary {
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   box-shadow: 0 4px 10px rgba(19,156,156,0.18);
 }
 
@@ -5466,11 +5466,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 /* ── CTA Button ── */
 .services-diagnostics-section .services-diagnostics-cta {
   display: inline-block;
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 34px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 14px;
@@ -5482,7 +5482,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .services-diagnostics-section .services-diagnostics-cta:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.22);
   transform: translateY(-2px);
 }
@@ -5867,11 +5867,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .services-fitting-section .services-fitting-cta {
   display: inline-block;
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 34px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-weight: 700;
   font-size: 0.9375rem;
   line-height: 1;
@@ -6048,7 +6048,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   width: 52px;
   height: 52px;
   border-radius: 12px;
-  background: linear-gradient(135deg, #DFF4EE 0%, #E1CF00 100%);
+  background: linear-gradient(135deg, #DFF4EE 0%, #EA920C 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -6405,7 +6405,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .services-followup-section .btn-primary:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.28);
   transform: translateY(-2px);
 }
@@ -6776,9 +6776,9 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .hearing-aids-brands-overview-section .btn-primary {
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   box-shadow: 0 4px 10px rgba(19,156,156,0.18);
 }
 
@@ -7165,11 +7165,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 .hearing-aids-brands-device-types-section .device-types-btn {
   display: inline-block;
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 34px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 0.875rem;
@@ -7182,8 +7182,8 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .hearing-aids-brands-device-types-section .device-types-btn:hover {
-  background: #E0FFFF;
-  border-color: #E0FFFF;
+  background: #1B3A6B;
+  border-color: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19, 138, 138, 0.22);
   transform: translateY(-1px);
   color: #FFFFFF;
@@ -7464,11 +7464,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .hearing-aids-brands-brand-grid-section .btn-primary {
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 34px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 0.9375rem;
@@ -7765,7 +7765,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 /* ── CTA Row ── */
 .hearing-aids-brands-technology-section .tech-cta-row {
   background: linear-gradient(180deg, #244C63 0%, #1E5369 100%);
-  background-color: #E0FFFF;
+  background-color: #1B3A6B;
   border-radius: 12px;
   padding: 40px 48px;
   display: flex;
@@ -7811,11 +7811,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 /* ── Buttons ── */
 .hearing-aids-brands-technology-section .btn-primary.tech-btn {
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 28px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 14px;
@@ -8289,7 +8289,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .branches-directory-section .btn-branch-primary:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.22);
   transform: translateY(-1px);
 }
@@ -8635,7 +8635,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .branches-access-section .btn-directions:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.22);
   transform: translateY(-1px);
   color: #FFFFFF;
@@ -8738,11 +8738,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 .branches-access-section .btn-reassurance {
   display: inline-flex;
   align-items: center;
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 14px 28px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 14px;
@@ -8756,7 +8756,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .branches-access-section .btn-reassurance:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.22);
   transform: translateY(-1px);
   color: #FFFFFF;
@@ -8914,9 +8914,9 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .contact-intro-section .btn-primary {
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   box-shadow: 0 4px 10px rgba(19,156,156,0.18);
 }
 
@@ -9168,9 +9168,9 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .contact-contact-options-section .btn-primary {
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   box-shadow: 0 4px 10px rgba(19, 156, 156, 0.18);
 }
 
@@ -9525,11 +9525,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  background: #E0FFFF;
+  background: #1B3A6B;
   color: #FFFFFF;
   padding: 15px 36px;
   border-radius: 8px;
-  border: 1px solid #E0FFFF;
+  border: 1px solid #1B3A6B;
   font-family: 'Rubik', sans-serif;
   font-size: 16px;
   font-weight: 700;
@@ -9746,7 +9746,7 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 }
 
 .contact-reassurance-section .btn-primary:hover {
-  background: #E0FFFF;
+  background: #1B3A6B;
   box-shadow: 0 10px 24px rgba(19,138,138,0.22);
   transform: translateY(-2px);
 }
@@ -10266,9 +10266,9 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
 
 /* Cookie Consent Customizations */
 :root {
-  --cc-btn-primary-bg: #FFFBC0;
-  --cc-btn-primary-border: #FFFBC0;
-  --cc-btn-primary-hover-bg: #FFFBC0;
+  --cc-btn-primary-bg: #0E8A7D;
+  --cc-btn-primary-border: #0E8A7D;
+  --cc-btn-primary-hover-bg: #0E8A7D;
 }
 
 #cc--main {
@@ -10764,21 +10764,15 @@ nav.navbar .sub-menu li a:hover { color: #138A8A !important; background-color: r
 
 
 
+
+
 /* === BUTTON TEXT OVERRIDES START === */
-.btn-primary,
-.btn--primary,
-[class*="btn-primary"],
-[class*="btn--primary"] { color: #333333 !important; }
-.btn-secondary,
-.btn--secondary,
-[class*="btn-secondary"],
-[class*="btn--secondary"] { color: #333333 !important; }
 .btn-accent,
 .btn--accent,
 [class*="btn-accent"],
 [class*="btn--accent"] { color: #333333 !important; }
 .navbar .nav-cta-btn,
-.nav-cta-btn { color: #333333 !important; }
+.nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
 
